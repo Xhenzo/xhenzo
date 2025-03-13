@@ -12,19 +12,13 @@ I'm a passionate developer with expertise in various programming languages and t
     <img style="border-radius: 25px;" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
     <img style="border-radius: 25px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img style="border-radius: 25px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+</div>
+<div align="center">
     <img style="border-radius: 25px;" src="https://api.visitorbadge.io/api/VisitorHit?user={Xhenzo}&repo={xhenzo}&countColor=%237B1E7A">
 </div>
-## 🌐 Connect with Me
-Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rozhak_official)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/1)
-[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/mexzo_officials)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/xhenzo08)
-
+## 🌐 Statict Github  [XhenzoSec](https://github.com/xhenzo)
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xhenzo&theme=dark&hide_border=false">
-   <br>
    <img src="https://github-readme-stats.vercel.app/api?username=Xhenzo&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
    <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xhenzo&theme=dark&hide_border=false&include_all_commits=true&count_priva">
