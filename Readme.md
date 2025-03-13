@@ -4,6 +4,13 @@ I'm a passionate developer with expertise in various programming languages and t
 
 ## ⚡ Technologies
 
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrG3P5&theme=dark&hide_border=false">
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=MrG3P5&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrG3P5&theme=dark&hide_border=false&include_all_commits=true&count_priva">
+</p>
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
