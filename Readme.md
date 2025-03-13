@@ -18,8 +18,3 @@ I'm a passionate developer with expertise in various programming languages and t
 </div>
 
 ## 🌐 Statict Github  [XhenzoSec](https://github.com/xhenzo)
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Xhenzo&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xhenzo&theme=dark&hide_border=false&include_all_commits=true&count_priva">
-</p>
