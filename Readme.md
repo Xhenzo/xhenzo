@@ -7,7 +7,7 @@ I'm a passionate developer with expertise in various programming languages and t
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-
+![Views](https://api.visitorbadge.io/api/VisitorHit?user={Xhenzo}&repo={xhenzo}&countColor=%237B1E7A)
 ## 🌐 Connect with Me
 
 Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
