@@ -1,6 +1,6 @@
 # Hey There! I'm [XhenzoSec](https://github.com/xhenzo) 👋
 
-I'm a passionate developer with expertise in various programming languages and technologies. I enjoy creating innovative solutions and sharing my knowledge with the community. Welcome to my GitHub profile!
+**I'm a passionate developer with expertise in various programming languages and technologies. I enjoy creating innovative solutions and sharing my knowledge with the community. Welcome to my GitHub profile!**
 
 ## ⚡ Technologies
 <div align="center">
@@ -16,5 +16,3 @@ I'm a passionate developer with expertise in various programming languages and t
 <div align="center">
     <img style="border-radius: 25px;" src="https://api.visitorbadge.io/api/VisitorHit?user={Xhenzo}&repo={xhenzo}&countColor=%237B1E7A">
 </div>
-
-## 🌐 Statict Github  [XhenzoSec](https://github.com/xhenzo)
